@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Gustavo Flosant</h1>
 <h3 align="center">Desarrollador Web Full-Stack</h3>
 
-- 🌱 Estoy aprediendo  **Spring Boot, Kubernetes, azure y poquito mas**
+- 🌱 Estoy aprendiendo  **Spring Boot, Kubernetes, azure y poquito mas**
 - 📫 Contáctame **ugflosant@gmail.com**
 
 <h3 align="left">Encuentrame en:</h3>
