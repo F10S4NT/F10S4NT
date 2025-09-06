@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gustavo Flosant
+# 👋 Hi, I'm Gustavo 
 
 🎯 **Aspiring DevOps / SRE Engineer | Technical Support | ITIL Foundations**  
 Currently **learning and practicing DevOps**, with a focus on **automation, cloud, CI/CD, and monitoring**.
@@ -70,8 +70,7 @@ A visual representation of **my CI/CD, container deployment, and monitoring work
 
 ## 📫 Contact Me
 - 📧 ugflosant@gmail.com  
-- 🔗 [LinkedIn](#)  
-- 🔗 [GitHub](https://github.com/tu-username)
+- 🔗 [LinkedIn](gflosant)
 
 ---
 
