@@ -41,8 +41,8 @@ Aunque estoy iniciando en DevOps, me esfuerzo por **aprender y aplicar nuevas te
 
 ## 📫 Contáctame
 - 📧 ugflosant@gmail.com  
-- 🔗 [LinkedIn](#)  
-- 🔗 [GitHub](https://github.com/tu-username)  
+- 🔗 [LinkedIn](gflosant)  
+- 🔗 [GitHub](https://github.com/F10s4nt)  
 
 ---
 
