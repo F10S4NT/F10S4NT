@@ -30,6 +30,16 @@ Currently working as **Technical Support Engineer**, with knowledge of **ITIL pr
 - Incident, problem, and change management following ITIL guidelines.  
 - Coordinating with cross-functional teams to ensure system reliability.
 
+## 🛠️ Incident Management & Postmortems
+
+I am actively learning how to **manage incidents and perform postmortems (PIRs)** to improve system reliability and processes.
+
+### Key Practices
+- **Incident Documentation:** Tracking incidents with timeline, impact, and resolution.  
+- **Root Cause Analysis:** Identifying technical, process, or human errors.  
+- **Postmortems / PIRs:** Reflecting on incidents to extract lessons learned and preventive actions.  
+- **Continuous Improvement:** Implementing fixes, monitoring, and automated alerts to prevent recurrence.
+
 > This experience provides a solid foundation for my **DevOps journey**, giving practical insight into **operations, monitoring, and IT service management**.
 
 ---
