@@ -1,33 +1,48 @@
-# 👋 Hola, soy Gustavo 
+# 👋 Hi, I'm Gustavo Flosant
 
-🎯 **Aprendiz de DevOps / SRE con pasión por la automatización, la nube y los sistemas resilientes**  
+🎯 **Aspiring DevOps / SRE Engineer**  
+Passionate about **automation, cloud, and resilient systems**.  
 
-Aunque estoy iniciando en DevOps, me esfuerzo por **aprender y aplicar nuevas tecnologías** desde cero, con proyectos propios y labs prácticos.  
+> Practicing DevOps skills through personal labs, pipelines, and cloud projects.
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-008000?style=for-the-badge)
 
-> Cada día practico con pequeños labs para **entender y dominar herramientas DevOps**.  
+---
+
+## 💻 Labs and DevOps Projects
+
+### 🚀 Docker + Kubernetes
+![Docker & K8s](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+Deploying containers and microservices on **local and cloud clusters**.
+
+### 🔄 CI/CD Pipelines
+![CI/CD](https://media.giphy.com/media/l0HlQ7LRalC2fHfD6/giphy.gif)  
+Automating testing and deployments with **GitHub Actions & Jenkins**.
+
+### 🌐 Infrastructure as Code
+![Terraform](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+Provisioning **cloud resources in Azure** using Terraform.
+
+### 📊 Monitoring & Logging
+![Monitoring](https://media.giphy.com/media/26xBwdIuRJiAiM7sA/giphy.gif)  
+Observability using **Prometheus, Grafana, and ELK Stack**.
 
 ---
 
-## 💻 Labs y proyectos personales
-- 🚀 **Docker + Kubernetes:** Contenedores y despliegue de microservicios.  
-- 🔄 **CI/CD Pipelines:** Automatización básica con GitHub Actions.  
-- 🌐 **Infraestructura como código:** Primeros despliegues con Terraform en Azure.  
-- 📊 **Monitoreo:** Pruebas de Prometheus y Grafana en entornos locales.  
-
-> Aunque son proyectos pequeños, reflejan mi **capacidad de aprendizaje y motivación**.  
+## 🗂️ Workflow Diagram
+![DevOps Workflow](https://user-images.githubusercontent.com/your-username/your-diagram.gif)  
+A visual representation of **my CI/CD, container deployment, and monitoring workflow**.
 
 ---
 
-## 🛠️ Tecnologías que uso y estudio
+## 🛠️ DevOps Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -35,18 +50,16 @@ Aunque estoy iniciando en DevOps, me esfuerzo por **aprender y aplicar nuevas te
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-008000?style=flat)
 
-> Más que experiencia, muestro **curiosidad, disciplina y práctica constante**.  
-
 ---
 
-## 📫 Contáctame
+## 📫 Contact Me
 - 📧 ugflosant@gmail.com  
-- 🔗 [LinkedIn](gflosant)  
-- 🔗 [GitHub](https://github.com/F10s4nt)  
+- 🔗 [LinkedIn](#)  
+- 🔗 [GitHub](https://github.com/tu-username)
 
 ---
 
 ## ⚡ Extras
-- 💡 Apasionado por **automatización y resiliencia en sistemas**.  
-- 🌎 Explorando continuamente **cloud, DevOps y SRE** desde cero.  
-- 🎯 Objetivo: crecer profesionalmente y aprender **herramientas y prácticas DevOps** de manera aplicada.  
+- 💡 Driven by **learning, automation, and system reliability**.  
+- 🌎 Continuously exploring **cloud technologies and DevOps practices**.  
+- 🎯 Goal: **Become a skilled DevOps / SRE professional** through practical experience.
