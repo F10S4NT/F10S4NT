@@ -1,24 +1,52 @@
-<h1 align="center">Hola 👋, Soy Gustavo Flosant</h1>
-<h3 align="center">Desarrollador Web Full-Stack</h3>
+# 👋 Hola, soy Gustavo Flosant
 
-- 🌱 Estoy aprendiendo  **Spring Boot, Kubernetes, azure y poquito mas**
-- 📫 Contáctame **ugflosant@gmail.com**
+🎯 **Aprendiz de DevOps / SRE con pasión por la automatización, la nube y los sistemas resilientes**  
 
-<h3 align="left">Encuentrame en:</h3>
-<p align="left">
-<a href="https://twitter.com/gflosant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gflosant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gflosant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gflosant" height="30" width="40" /></a>
-<a href="https://kaggle.com/f10s4nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="f10s4nt" height="30" width="40" /></a>
-</p>
+Aunque estoy iniciando en DevOps, me esfuerzo por **aprender y aplicar nuevas tecnologías** desde cero, con proyectos propios y labs prácticos.  
 
+---
 
-<h3 align="left">Lenguajes:</h3>  
+## 🌱 Actualmente aprendiendo
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-008000?style=for-the-badge)
 
-- <h4 align="left">Front-end:</h4>     
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> 
+> Cada día practico con pequeños labs para **entender y dominar herramientas DevOps**.  
 
-- <h4 align="left">Back-end:</h4>   
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-- <h4 align="left">Extra:</h4>  
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p> 
+## 💻 Labs y proyectos personales
+- 🚀 **Docker + Kubernetes:** Contenedores y despliegue de microservicios.  
+- 🔄 **CI/CD Pipelines:** Automatización básica con GitHub Actions.  
+- 🌐 **Infraestructura como código:** Primeros despliegues con Terraform en Azure.  
+- 📊 **Monitoreo:** Pruebas de Prometheus y Grafana en entornos locales.  
+
+> Aunque son proyectos pequeños, reflejan mi **capacidad de aprendizaje y motivación**.  
+
+---
+
+## 🛠️ Tecnologías que uso y estudio
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-008000?style=flat)
+
+> Más que experiencia, muestro **curiosidad, disciplina y práctica constante**.  
+
+---
+
+## 📫 Contáctame
+- 📧 ugflosant@gmail.com  
+- 🔗 [LinkedIn](#)  
+- 🔗 [GitHub](https://github.com/tu-username)  
+
+---
+
+## ⚡ Extras
+- 💡 Apasionado por **automatización y resiliencia en sistemas**.  
+- 🌎 Explorando continuamente **cloud, DevOps y SRE** desde cero.  
+- 🎯 Objetivo: crecer profesionalmente y aprender **herramientas y prácticas DevOps** de manera aplicada.  
